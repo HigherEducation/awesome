@@ -4,13 +4,18 @@
 
 ### Atom
 
-#### Themes:
+#### UI Themes:
+
 - [Atom Material UI](https://atom.io/themes/atom-material-ui)
-- [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
 - [Nucleus Dark UI](https://atom.io/themes/nucleus-dark-ui)
+
+#### Syntax Themes:
+
+- [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
 - [Tomorrow Night Eighties Syntax](https://atom.io/themes/tomorrow-night-eighties-syntax)
 
 #### Notable packages:
+
 - [Advanced Open File](https://atom.io/packages/advanced-open-file)
 - [Atom Beautify](https://atom.io/packages/atom-beautify)
 - [Auto Reveal in Sidebar](https://atom.io/packages/auto-reveal-in-sidebar)
